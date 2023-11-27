@@ -1,0 +1,31 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #c0c0c0;
+}
+
+h2 {
+    color: brown;
+    max-width: 900px;
+    border: 1px solid #0a0a0a;
+    padding: 10px;
+    background-color: #eeecec;
+    margin-top: 30px;
+}
+
+h3 {
+    color: rgb(165, 42, 114);
+    max-width: 900px;
+    border: 1px solid #0a0a0a;
+    padding: 10px;
+    background-color: #eeecec;
+    margin-top: 30px;
+}
+
+h4 {
+    color: #2a47a5;
+    max-width: 900px;
+    border: 1px solid #0a0a0a;
+    padding: 10px;
+    background-color: #eeecec;
+    margin-top: 30px;
+}
